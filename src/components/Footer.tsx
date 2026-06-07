@@ -14,12 +14,12 @@ const Footer = () => {
               <span className="font-bold text-xl text-white">Home Interiors</span>
             </Link>
             <p className="text-sm">
-              Transforming spaces into extraordinary experiences since 2010.
+              Transforming spaces into extraordinary experiences since 2025.
             </p>
             <div className="flex space-x-4">
               {/* Facebook */}
               <a
-                href="https://example.com/facebook"
+                href="https://www.facebook.com/share/16Dxy6ZBvv/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-indigo-400 transition-colors"
@@ -28,7 +28,7 @@ const Footer = () => {
               </a>
               {/* Instagram */}
               <a
-                href="https://example.com/instagram"
+                href="https://www.instagram.com/charith_pulaganti_?igsh=MXUyNGRjZGlsNzRwNg=="
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-indigo-400 transition-colors"
@@ -37,7 +37,7 @@ const Footer = () => {
               </a>
               {/* Twitter */}
               <a
-                href="https://example.com/twitter"
+                href="https://x.com/PulagantiC17450"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-indigo-400 transition-colors"
@@ -107,7 +107,7 @@ const Footer = () => {
             <ul className="space-y-4">
               <li className="flex items-center space-x-3">
                 <Mail className="h-5 w-5 text-indigo-400" />
-                <span>homedesignor1@gmail.com</span>
+                <span>chakri9701@gmail.com</span>
               </li>
               <li className="flex items-center space-x-3">
                 <Phone className="h-5 w-5 text-indigo-400" />
@@ -115,7 +115,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center space-x-3">
                 <MapPin className="h-5 w-5 text-indigo-400" />
-                <span>123 Design Street, Bangalore, ST 12-345</span>
+                <span>1-246, Eguva Amilepalli, Gurramkonda, 517291</span>
               </li>
             </ul>
           </div>

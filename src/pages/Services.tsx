@@ -8,37 +8,37 @@ const Services = () => {
       title: 'Residential Design',
       description: 'Transform your home into a personalized sanctuary with our comprehensive residential interior design services.',
       image: 'https://images.unsplash.com/photo-1600210492493-0946911123ea?auto=format&fit=crop&q=80&w=800',
-      link: '/services/residential'
+      link: 'https://en.wikipedia.org/wiki/Building_design'
     },
     {
       title: 'Commercial Spaces',
       description: 'Create inspiring workplaces that boost productivity and reflect your brand identity.',
       image: 'https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=800',
-      link: '/services/commercial'
+      link: 'https://freemontbuilding.com/blog/what-is-a-commercial-building/'
     },
     {
       title: 'Kitchen & Bath',
       description: 'Specialized designs for the most important spaces in your home, combining functionality with luxury.',
       image: 'https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&q=80&w=800',
-      link: '/services/kitchen-bath'
+      link: 'https://hailekitchen.com/guide-kitchen-bath-design-styles/'
     },
     {
       title: 'Space Planning',
       description: 'Optimize your space utilization with our expert planning and layout design services.',
       image: 'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&q=80&w=800',
-      link: '/services/space-planning'
+      link: 'https://www.numberanalytics.com/blog/step-by-step-guide-space-planning#:~:text=Space%20planning%20is%20a%20crucial%20aspect%20of%20architecture,space%20planning%2C%20from%20initial%20concept%20to%20final%20completion.'
     },
     {
       title: 'Furniture Selection',
       description: 'Curated furniture and decor selections that perfectly match your style and space.',
       image: 'https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?auto=format&fit=crop&q=80&w=800',
-      link: '/services/furniture'
+      link: 'https://luxiumfurnitures.com/'
     },
     {
       title: 'Color Consultation',
       description: 'Expert color schemes that create the perfect atmosphere for your space.',
       image: 'https://th.bing.com/th/id/OIP.zpRt_L8KSUsqe2CQ_OrTQgHaE5?rs=1&pid=ImgDetMain',
-      link: '/services/color'
+      link: 'https://gradienthunt.com/'
     }
   ];
 

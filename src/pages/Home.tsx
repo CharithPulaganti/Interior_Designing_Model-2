@@ -25,18 +25,30 @@ const Home = () => {
   ];
 
   const testimonials = [
+     {
+      name: 'Hemanth Kumar Royal',
+      role: 'CO-Founder @ PP Software Solutions',
+      content: 'I am very happy about luxe staff services and the designs',
+      image: 'https://img.freepik.com/premium-photo/man-suit_777078-51615.jpg'
+    },
     {
-      name: 'Jyothi',
-      role: 'Business Owner',
+      name: 'Ammu',
+      role: 'Founder @ NC Solutions Pvt Ltd',
       content: 'The team at Luxe Interiors transformed our house into a dream home. Their attention to detail is remarkable.',
       image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=200'
     },
     {
-      name: 'Venkatesh',
-      role: 'Business Owner',
+      name: 'Charith',
+      role: 'HR @ TechCorp',
       content: 'Professional, creative, and efficient. They delivered beyond our expectations for our office renovation.',
       image: 'https://th.bing.com/th/id/OIP.EwpWjHy0PG3QNqRInqUejAHaE7?rs=1&pid=ImgDetMain'
     },
+    {
+      name: 'Charan',
+      role: ' CEO @ PP Solutions Pvt Ltd',
+      content: 'Best interior designers are found in this platform and i am very happy about the designs what i have in my office',
+      image: 'https://img.freepik.com/premium-photo/portrait-professional-business-person_975403-4747.jpg'
+    }
   ];
 
   return (
